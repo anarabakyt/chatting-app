@@ -132,6 +132,7 @@ body{
   background-color: #fff;
   width: 100%;
   padding: 20px;
+  overflow: hidden;
 }
 .messages-footer{
   background-color: #e6eaed;
@@ -154,6 +155,7 @@ body{
   border-radius: 0;
   border: none;
   margin-left: 10px;
+  cursor: pointer;
 }
 
 .message{
